@@ -1,1 +1,1 @@
-# CSCI933
+# csci933-ml-algorithms
